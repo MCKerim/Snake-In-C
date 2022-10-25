@@ -1,0 +1,77 @@
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X O 5    1 X                                                 	X O 5    1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+1								1
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X  O5    1 X                                                 	X  O5    1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+2								2
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5    1 X                                                 	X   5    1 X                                                 
+X  O       X                                                 	X  O       X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+3								3
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5    1 X                                                 	X   5    1 X                                                 
+X   O      X                                                 	X   O      X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+4								4
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5    1 X                                                 	X   5    1 X                                                 
+X    O     X                                                 	X    O     X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+5								5
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5    1 X                                                 	X   5    1 X                                                 
+X     O    X                                                 	X     O    X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+6								6
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5    1 X                                                 	X   5    1 X                                                 
+X      O   X                                                 	X      O   X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+7								7
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5    1 X                                                 	X   5    1 X                                                 
+X       O  X                                                 	X       O  X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+8								8
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5    1 X                                                 	X   5    1 X                                                 
+X        O X                                                 	X        O X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+9								9
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5    O X                                                 	X   5    O X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+10								10
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5   OO X                                                 	X   5   OO X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+11								11
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5   O  X                                                 	X   5   O  X                                                 
+X       O  X                                                 	X       O  X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+12								12
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   5   O  X                                                 	X   5   O  X                                                 
+X       O  X                                                 	X       O  X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 

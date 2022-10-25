@@ -1,0 +1,45 @@
+    //Aufruf des Programms
+    //Eingabe Ausgabe und Level Datei übergeben
+    //geht auch mit mehreren, werden dann nacheinander durchgespielt
+    //Ansonsten Standarteingabe Standartausgabe und level/1.txt
+    // - als Pfad für eingabe oder ausgabe heißt standart
+
+    //Rückgabe
+    //0 alles gut
+    //1 nicht richtige Anzahl an parametern (0, 3, 6, ...)
+    //2 Datei konnte nicht geöffnet werden
+    //3 Datei konnte nicht gelesen werden
+    //4 Zeilen der Level-Datei nicht genau 80 Zeichen lang
+
+
+
+    //Level entegennehmen aus Datei
+    //vllt in ein 2D array speichern?
+    // X = Wände O = Schlange start 1-9 Äpfel Leer = leeres Feld
+    //Jede Zeile 80 Zeichen + \n
+
+
+    //Zu beginn des Levels einmal Spielfeld ausgeben
+
+    //Schlange steuern
+    //Mit wasd
+    //nach eingabe von \n soll Befehl verarbeitet werden
+    //EOF beendet das Spiel
+    //alles andere ignorieren
+
+    //Schlange läuft gegen Wand = Spiel vorbei
+    //"Die Schlange ist in die Wand gelaufen!\n"
+    //Schlange läuft in sich selbst = Spiel vorbei
+    //"Die Schlange hat sich selbst gefressen!\n"
+
+    //Schlange frisst Äpfel
+    //Schlange wächst die Zahl an äpfel
+
+    //Schlange frisst alle Äpfel = Spiel vorbei
+    //"Gewonnen!\n"
+
+    //anzahl der verarbeiteten Befehle ausgeben
+    //feld Printen in Datei oder standartausgabe
+
+
+    //Speicher Freigeben, geöffnete Dateien schließen

@@ -1,0 +1,48 @@
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X O 5    1 X                                                 	X O 5    1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+1								1
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X  O5    1 X                                                 	X  O5    1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+2								2
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   O    1 X                                                 	X   O    1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+3								3
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   OO   1 X                                                 	X   OO   1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+4								4
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   OOO  1 X                                                 	X   OOO  1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+5								5
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   OOOO 1 X                                                 	X   OOOO 1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+6								6
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   OOOOO1 X                                                 	X   OOOOO1 X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+7								7
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+X          X                                                 	X          X                                                 
+X   OOOOOO X                                                 	X   OOOOOO X                                                 
+X          X                                                 	X          X                                                 
+XXXXXXXXXXXX                                                 	XXXXXXXXXXXX                                                 
+Gewonnen!							Gewonnen!
